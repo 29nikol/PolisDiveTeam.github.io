@@ -14,11 +14,19 @@ p{
 }
 .turtles1{
 	width:90%;
-	clip-path: circle(50%);
+	clip-path: circle(45%);
+	padding-top: 30px;
+}
+.team{
+	padding-top: 30px;
+}
+.goal{
+	padding-top: 30px;
 }
 .BLUELAGGON{
 	width:100%;
 	clip-path: circle(41%);
+	padding-top: 30px;
 }
 .quiz{
 	padding-top: 50px;
@@ -35,9 +43,13 @@ p{
 .whyy{
 	text-align: center;
 }
-.xarakti
-	{padding-top: 70px;
+.xarakti{
+	padding-top: 70px;
 	text-align: center;
+}
+.xarakti3{
+	text-align: center;
+	padding-top: 10px;
 }
 .diameter{
 	width:90%;
